@@ -114,21 +114,3 @@ Calling to him.
 </p>
 
 <hr>
-
-<h2>The Bard’s Song</h2>
-
-<p>
-His journey led him to a distant town, where he crossed paths with a small band of travelers. One evening, as they rested near a low-burning fire, a bard plucked a haunting tune from his strings.
-
-The moment the melody reached Korrith’s ears, he froze. The notes carried the same cadence as the whispers from his meditations—the same rise and fall, the same ache of something ancient and lost.
-
-The language in the song wasn’t one he fully understood. But it sounded familiar, echoing the same syllables that had stirred in his blood night after night.
-
-It was Sulvaturr. Not spoken—but sung.
-</p>
-
-<p>
-He didn’t know what it meant yet, only that it mattered.
-</p>
-
-<hr>

@@ -112,5 +112,3 @@ A dagger—curved, fanged, glowing faintly from within.<br/>
 The <strong>Fang of Val'Suin</strong>.<br/>
 Calling to him.
 </p>
-
-<hr>

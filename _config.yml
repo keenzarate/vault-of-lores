@@ -14,16 +14,17 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Vault of Lores # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-
+  A living archive of characters, myths, and secrets from many realms.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://keenzarate.github.io"
+baseurl: "/vault-of-lores"
 
 github:
   username: github_username # change to your GitHub username
@@ -149,8 +150,6 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -224,3 +223,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
+#   - jekyll-include-cache
+#   - jekyll-theme-chirpy
+
